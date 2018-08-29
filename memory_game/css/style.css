@@ -16,7 +16,7 @@ nav {
 
 main {
 	width: 850px;
-	margin: 35px auto;
+	margin: 40px auto;
 }
 
 img {
@@ -64,6 +64,7 @@ footer {
 	background-color: #0D2C40;
 	color: #FFFFFF;
 	letter-spacing: 0.5em;
+	height: 200px;
 }
 .copyright, .message {
 	font-family: "Raleway", sans-serif;
